@@ -1,8 +1,7 @@
 ---
-title: Admin tools
+title: AFMT
 tags:
-  - Plugins
-  - Admin
+ - Administrarteur
 ---
 
 import { ProjectSummary } from '@site/src';
